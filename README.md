@@ -1,2 +1,2 @@
 # helloworld
-My first repository on GitHub
+Мой первый репозиторий на контролере версий GitHub
